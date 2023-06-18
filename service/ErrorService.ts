@@ -1,0 +1,1 @@
+export const handleError = (error: any) => error.details[0].message
