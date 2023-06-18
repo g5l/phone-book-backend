@@ -3,7 +3,7 @@
 node_modules
 /dist
 .prisma
-/prisma/db/*.db
+*.db
 logs
 *.log
 npm-debug.log*
